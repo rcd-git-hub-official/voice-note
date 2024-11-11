@@ -1,14 +1,14 @@
 [
     {
         "messages": ["Hello", "hi", "hello", "hey"],
-        "audioUrl": "https://raw.githubusercontent.com/username/repo/main/audio1.mp3"
+        "audioUrl": "https://github.com/RCD-GITHUB-REAL/Voice-/raw/refs/heads/main/My%20data/hiand%20hello%20.mp3"
     },
     {
         "messages": ["How are you?", "how r u", "how are u"],
-        "audioUrl": "https://raw.githubusercontent.com/username/repo/main/audio2.mp3"
+        "audioUrl": "https://github.com/RCD-GITHUB-REAL/Voice-/raw/refs/heads/main/My%20data/hiand%20hello%20.mp3"
     },
     {
         "messages": ["Send me the details", "details please", "info"],
-        "audioUrl": "https://raw.githubusercontent.com/username/repo/main/audio3.mp3"
+        "audioUrl": "https://github.com/RCD-GITHUB-REAL/Voice-/raw/refs/heads/main/My%20data/hiand%20hello%20.mp3"
     }
 ]
